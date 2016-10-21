@@ -1,0 +1,42 @@
+.pap_error_msg {
+	font-size: 10pt !important;
+	color:     red
+}
+
+.pap_half {
+	width: 49.5%;
+}
+
+.pap_left {
+	float: left;
+}
+
+.pap_right {
+	float: right;
+}
+
+.pap_rule {
+	border:  solid 1px #ddd;
+	padding: 0 7px;
+}
+
+.pap_rule .handler {
+	cursor: move;
+}
+
+.rule_description {
+	padding: 5px;
+	color:#333
+}
+.pap_spinner{
+	position: relative;
+	top: 3px;
+}
+.plan_rule_container{
+	border: 1px dashed #DDDDDD;
+	padding: 0 10px;
+	margin-bottom: 10px;
+}
+.plan_rule_container h4 span{
+	cursor: pointer;
+}

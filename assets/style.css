@@ -1,0 +1,122 @@
+/*.comment {
+	position: relative;
+}*/
+#comments {
+    position: relative;
+}
+
+.pct_lang_picker.picker_single.top-right {
+    position: absolute;
+    top: 0;
+    right: 0
+}
+
+.pct_lang_picker.picker_single.top-left {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.pct_lang_picker.picker_single.bottom-right {
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+.pct_lang_picker.picker_single.bottom-left {
+    position: absolute;
+    bottom: 0;
+    left: 0
+}
+
+.pct_lang_picker.picker_all.top-right {
+    position: absolute;
+    top: 10px;
+    right: 0
+}
+
+.pct_lang_picker.picker_all.top-left {
+    position: absolute;
+    top: 10px;
+    left: 0
+}
+
+.pct_lang_picker.picker_all.bottom-right {
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+.pct_lang_picker.picker_all.bottom-left {
+    position: absolute;
+    bottom: 0;
+    left: 0
+}
+
+.lang_picker_link {
+    list-style-type: none !important;
+}
+
+.lang_picker_link li {
+    display: inline;
+}
+
+.lang_picker_link li:after {
+    content: ' | '
+}
+
+.lang_picker_link li:last-child:after {
+    content: '';
+}
+
+.pct_lang_picker.top-left {
+    position: absolute;
+    top: 10px;
+    left: 0
+}
+
+.pct_lang_picker.top-right {
+    position: absolute;
+    top: 10px;
+    right: 0
+}
+
+.pct_lang_picker.bottom-left {
+    position: absolute;
+    bottom: 10px;
+    left: 0
+}
+
+.pct_lang_picker.bottom-right {
+    position: absolute;
+    bottom: 10px;
+    right: 0
+}
+
+.pct_lang_picker_all.top-left {
+    position: absolute;
+    top: 10px;
+    left: 0
+}
+
+.pct_lang_picker_all.top-right {
+    position: absolute;
+    top: 10px;
+    right: 0
+}
+
+.pct_lang_picker_all.bottom-left {
+    position: absolute;
+    bottom: 10px;
+    left: 0
+}
+
+.pct_lang_picker_all.bottom-right {
+    position: absolute;
+    bottom: 10px;
+    right: 0
+}
+
+.pct_Translate_Widget {
+
+}
