@@ -3,9 +3,9 @@
 /*
 Plugin Name: AutoTranslate
 Plugin URI: #
-Description: Connect to Bing Translate, Google Translate or Yandex translate and automatically translate your site. 
+Description: Connect to Bing Translate, Google Translate or Yandex translate and automatically translate your site.
 Author: WPSatchel
-Version: 1.0
+Version: 1.0 (Beta)
 Author URI: #
 */
 
