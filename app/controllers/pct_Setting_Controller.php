@@ -12,7 +12,7 @@ class pct_Setting_Controller {
 	}
 
 	public function admin_menu() {
-		add_management_page( __( 'Comment Translator', pct_instance()->domain ), __( 'Comment Translator', pct_instance()->domain ), 'manage_options', pct_instance()->prefix . 'setting', array(
+		add_management_page( __( 'Auto Translator', pct_instance()->domain ), __( 'Auto Translator', pct_instance()->domain ), 'manage_options', pct_instance()->prefix . 'setting', array(
 			&$this,
 			'main_setting_screen'
 		) );
